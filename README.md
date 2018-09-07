@@ -21,7 +21,7 @@ below
 below
 
 
-## Kruger
+## For each study site
 
 **Data processing:
 Outputs from bind_pca_kmeans_qda_histogram.R script**
